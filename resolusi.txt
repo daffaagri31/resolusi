@@ -1,0 +1,4 @@
+resolusi :
+- jago ngoding
+- konsisten
+- bisa menjadi fullstack dev
