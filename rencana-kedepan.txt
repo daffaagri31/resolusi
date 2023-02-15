@@ -4,3 +4,5 @@ rencana kedepan :
 - jadi kaya
 - sukses
 - fundamental data stucture
+- laravel
+- python
