@@ -6,3 +6,4 @@ rencana kedepan :
 - fundamental data stucture
 - laravel
 - python
+- belajar react
