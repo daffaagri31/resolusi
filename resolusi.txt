@@ -2,4 +2,5 @@ resolusi :
 - jago ngoding
 - konsisten
 - bisa menjadi fullstack dev
-- bisa buat aplikasi
+- bisa bekerja sama dengan tim
+- bisa menguasai banyak bahasa programing
