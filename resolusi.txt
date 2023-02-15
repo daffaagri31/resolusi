@@ -2,3 +2,4 @@ resolusi :
 - jago ngoding
 - konsisten
 - bisa menjadi fullstack dev
+- bisa buat aplikasi
