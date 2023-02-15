@@ -3,4 +3,6 @@ rencana kedepan :
   *ngalahin shopee
 - jadi kaya
 - sukses
-- fundamental data stucture
+- laravel
+- angular
+- react
